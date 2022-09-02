@@ -480,7 +480,7 @@ section {
 }
 
 .about .row .video {
-  -webkit-box-flex: 1;
+  -webkit-box-flex: 0.5 ;
       -ms-flex: 1 1 41rem;
           flex: 1 1 41rem;
 }
