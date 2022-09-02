@@ -375,11 +375,11 @@ section {
   background: var(--black);
   color: var(--white);
 }
-
 .home {
   padding: 0;
   background-image: url('https://wallpaperaccess.com/full/1556608.jpg');
 }
+
 
 .home .slide {
   min-height: 60rem;
